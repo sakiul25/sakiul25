@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakiul
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me sakiulislam25@gmail.com
